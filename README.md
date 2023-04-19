@@ -17,11 +17,6 @@ Upon careful inspection, I determined that the majority of the data was imported
 
 ![Screenshot](Images/columns.png)
 
-### Please watch the video below demonstrating how to navigate the dashboard
-
-<iframe width="980" height="500" src="https://www.youtube.com/embed/pBy1zgt0XPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 <p style="font-size: 48px;"><a href="https://app.powerbi.com/view?r=eyJrIjoiNmExMmY0NTYtOWVjZS00MDgzLTgyMDEtNWU0YWMxMjVkOTVlIiwidCI6ImRiMTUyMWRlLTEwYTYtNGIzNC05MDJiLTc4NGNiMmEyNjM5OCIsImMiOjZ9" target="_blank">View the Dashboard on the web</a></p>
 
